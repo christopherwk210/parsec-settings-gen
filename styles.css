@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: #3a7bd5;
+  background: linear-gradient(to top, #00d2ff, #3a7bd5);
+  background-attachment: fixed;
+}
+
+.container {
+  background-color: rgba(243, 243, 243, 0.8);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.6), 0 4px 12px rgba(0,0,0,0.3);
+}
+
+.btn {
+  cursor: pointer;
+}
